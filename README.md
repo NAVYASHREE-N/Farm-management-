@@ -38,11 +38,11 @@ This project demonstrates:
 
 Farm-management-system/
 │
-├── main.py # Main Flask application
-├── farmers.sql # Database schema or sample data
-├── /templates/ # HTML templates (login, register, dashboard, forms)
-├── /static/ # CSS, images, JS (if any)
-├── .gitignore # Ignored files & folders
+├── [main.py](main.py) # Main Flask application
+├── [farmers.sql](farmers.sql) # SQL file to create database tables
+├── [templates/](templates/) # HTML templates (login, dashboard, forms)
+├── [static/](static/) # Static files (CSS, images, JS)
+├── .gitignore # Git ignored files
 └── README.md # Project documentation
 
 
