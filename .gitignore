@@ -1,0 +1,28 @@
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore SQLite database files
+*.db
+*.sqlite3
+
+# Ignore instance folder (Flask default for local db or configs)
+instance/
+
+# Ignore environment variables (if you use a .env file)
+.env
+
+# Ignore VS Code settings (optional but good practice)
+.vscode/
+
+# Ignore OS files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore logs (optional)
+*.log

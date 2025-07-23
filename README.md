@@ -34,4 +34,15 @@ This project demonstrates:
 
 ---
 
+## 📂 Folder Structure
+
+Farm-management-system/
+│
+├── main.py # Main Flask application
+├── farmers.sql # Database schema or sample data
+├── /templates/ # HTML templates (login, register, dashboard, forms)
+├── /static/ # CSS, images, JS (if any)
+├── .gitignore # Ignored files & folders
+└── README.md # Project documentation
+
 
